@@ -35,3 +35,7 @@
 .section-title h2 {
   size: 20px;
 }
+
+#bottom * {
+  color: #606060;
+}
